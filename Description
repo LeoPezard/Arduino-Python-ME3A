@@ -1,0 +1,4 @@
+Projet Arduino-Python
+Polytech Marseille Mécanique énergétique 3A.
+Création d'un montage arduino avec des capteurs de température, de luminosité, panneau photovoltaïque, leds, écran LCD.
+Récupération des données sous arduino et traitement et affichage des valeurs sous python.
